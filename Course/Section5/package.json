@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-complete-guide-section5",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide: Section 5",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon js/app.js",
+    "start-server": "node js/app.js"
+  },
+  "author": "Jean Roux",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
