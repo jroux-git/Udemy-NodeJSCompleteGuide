@@ -1,11 +1,13 @@
 {
-  "name": "section4",
+
+  "name": "nodejs-complete-guide-section5",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Complete Node.js Guide: Section 5",
+  "main": "js/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "nodemon js/app.js",
+    "start-server": "node js/app.js"
   },
   "author": "Jean Roux",
   "license": "ISC",
@@ -14,3 +16,4 @@
     "express": "^4.16.4"
   }
 }
+

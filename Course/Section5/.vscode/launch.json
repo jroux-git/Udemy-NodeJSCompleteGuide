@@ -8,10 +8,9 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}\\app.js",
-      //"restart": true,
-      //"runtimeExecutable": "nodemon",
-      "console": "externalTerminal"
+      "program": "${workspaceFolder}/js/app.js",
+      "restart": true,
+      "runtimeExecutable": "nodemon"
     }
   ]
 }
