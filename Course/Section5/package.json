@@ -2,7 +2,7 @@
   "name": "nodejs-complete-guide-section5",
   "version": "1.0.0",
   "description": "Complete Node.js Guide: Section 5",
-  "main": "js/app.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon js/app.js",
